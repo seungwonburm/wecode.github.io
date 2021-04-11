@@ -53,6 +53,13 @@ body{
 .aboutme{
     font-size:20px;
 }
+.profile{
+    margin-top: 15px;
+}
+.information{
+    margin-top: 125px;
+    font-size: 25px;
+}
 .instagram{
-    margin-top: 30px;
+    background-color: transparent;
 }
